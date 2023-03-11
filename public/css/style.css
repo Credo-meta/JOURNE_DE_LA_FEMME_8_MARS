@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0; 
+    text-decoration: none;
+}
+body{
+    font-family: 'Century Gothic', Calibri, serif;
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.wrapper{
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.wrapper h2{
+    color: #02b8dd;
+}
+ul{
+    list-style: none;
+        
+}
+#V{
+    text-decoration: none;
+    color: blue; 
+}
+.clear
+{
+	clear: both;
+}
+ small
+ {
+ 	font-size: 13px;
+ 	font-style: italic;
+}
+
+/*HEADER*/
+
+header{
+    height: 120px;
+}
+header h1{
+    float: left;
+    margin-top: 32px;
+
+}
+header nav{
+    float: right;
+    margin: 50px;
+}
+header ul li{
+    display: inline-block;
+}
+header nav ul li a
+{
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-right: 20px;
+}p
+{
+	line-height: 20px;
+	color: #777;
+}
+footer h1
+{
+    color: blue;
+    text-align: center;
+    padding-top: 80px;
+}
+.copyright
+{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+    color: #777;
+}
+section{
+    width: 100%;
+    min-height: 300px;
+    padding-bottom:10px;
+    margin-bottom: 10px;
+}
+.sec{
+    margin: 0px 10%;
+}
+.parcours
+{
+   
+    background-color:rgba(228, 77, 38, 0.15);
+}
+h2{
+    margin: 0px 38%;
+    text-align: center;
+}
+
+
+.rouge{
+    background-color: rgba(228, 77, 38, 0.15);
+}

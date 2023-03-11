@@ -1,0 +1,18 @@
+{
+    "name": "steve/tp",
+    "autoload": {
+        "psr-4": {
+            "Steve\\Tp\\": "src/",
+            "Router\\":"routes/",
+            "App\\": "app/",
+            "Database\\": "database/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ariel",
+            "email": "arielpadonou01@gmail.com"
+        }
+    ],
+    "require": {}
+}
